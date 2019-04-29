@@ -1,4 +1,4 @@
-# In-Class-Behavior-Analyzer-FrontEnd Repository
+# FrontEnd Code Repository
 
 **Team members:**
   
