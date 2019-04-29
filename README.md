@@ -1,4 +1,4 @@
-# In-Class-Behavior-Analyzer-FrontEnd
+# In-Class-Behavior-Analyzer-FrontEnd Repository
 
 **Team members:**
   
@@ -22,9 +22,6 @@ Email: gpavlech@bsu.edu
 [Faculty Website Login](http://icba.us-east-2.elasticbeanstalk.com/accounts/login/?next=/faculty/)
 
 Last Release: 04/29/2019
-
-## Accessing Code 
-Code may be found [here](https://github.com/VanessaC97/In-Class-Behavior-Analyzer-FrontEnd)
 
 ## User Manual
 Any information explaining the features of the system and how to do them step-by-step may be found [here](https://github.com/Tebbee/In-Class-Behavior-Analyzer-FrontEnd/blob/master/User%20Manual/Faculty%20Site%20User%20Manual.md).
