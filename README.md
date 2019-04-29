@@ -1,4 +1,4 @@
-# FrontEnd Code Repository
+# Front-End Code Repository
 
 **Team members:**
   
